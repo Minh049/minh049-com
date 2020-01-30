@@ -8,7 +8,6 @@
           {{ range . -}}
             <a href=" {{ "categories" | relLangURL }}/{{ . | urlize }}/">&#8203; {{ . }} &#8203;</a>
           {{ end -}}
-          &#8203;
         </div>
       {{- end }}
       {{- if .Site.Params.moreMeta }}
