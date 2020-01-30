@@ -16,13 +16,14 @@ tags: [
 ]
 type: post
 toc: false
+lastmod: Monday, January 30, 2020
 ---
 ![Comparison of the Autonomy of the Younger Generations in Vietnamese and German Societies
 linktitle: Comparison of the Autonomy of the Younger Generations in Vietnamese and German Societies](https://i.postimg.cc/d30MqxXH/So-s-nh-t-nh-t-l-p-c-a-th-h-tr-trong-x-h-i-Vi-t-Nam-v-c.png)
 
 This paper (published in Vietnamese) tries to compare the autonomy of Vietnamese and German youngsters, i.e., people at the age of 13 to 35. This age group was chosen since the step from totally relying on one’s parents to becoming fully autonomous usually takes place within this timeframe.
 
-The main focus of this research lies on the results of two online questionnaires with more than 400 participants. In addition to the results of the research of existing works and two in-depth interviews, the evaluations of the two questionnaires show that there are clear differences in the autonomy of young people in Vietnam and Germany, especially in two areas, social relationships and personal finances.
+The main focus of this research lies on the results of two online questionnaires with more than 400 participants. In addition to the results of the research of existing works and two in-depth interviews, the evaluations of the two questionnaires show that there are differences in the autonomy of young people in Vietnam and Germany, especially in two areas, social relationships and personal finances.
 
 This research has been conducted as a part of a student science competition at the University of Social Sciences and Humanities (USSH) Hanoi, Vietnam. I participated in this 3-stage contest and won the second price (giải nhì) as the first foreigner ever in this kind of competition.
 

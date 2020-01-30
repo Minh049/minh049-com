@@ -13,7 +13,9 @@ tags: [
     "tag2",
     "tag3",
 ]
-featured_image: 
+featured_image:
+type: post
+toc: false 
 draft: true
 ---
 # First title
