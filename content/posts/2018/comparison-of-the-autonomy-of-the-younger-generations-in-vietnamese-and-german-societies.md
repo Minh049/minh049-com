@@ -4,8 +4,8 @@ linktitle: Comparison of the Autonomy of the Younger Generations in Vietnamese a
 date: 2018-04-18
 description: This paper tries to compare the autonomy of Vietnamese and German youngsters.
 categories: [
-    " Vietnam ",
-    " Academics ",
+    "Vietnam",
+    "Academics",
 ]
 tags: [
     "Germany",
