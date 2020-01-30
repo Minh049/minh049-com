@@ -15,6 +15,7 @@ tags: [
     "youth",
 ]
 type: post
+toc: false
 ---
 ![Comparison of the Autonomy of the Younger Generations in Vietnamese and German Societies
 linktitle: Comparison of the Autonomy of the Younger Generations in Vietnamese and German Societies](https://i.postimg.cc/d30MqxXH/So-s-nh-t-nh-t-l-p-c-a-th-h-tr-trong-x-h-i-Vi-t-Nam-v-c.png)

@@ -12,6 +12,7 @@ tags: [
 ]
 featured_image: https://i.postimg.cc/RCycmnj9/Universe-X.jpg
 type: post
+toc: false
 ---
 ![Universe-X bus](https://i.postimg.cc/RCycmnj9/Universe-X.jpg)
 
