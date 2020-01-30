@@ -4,16 +4,16 @@
     <div class="post-meta">
       <span class="post-time"> {{ .Date.Format (.Site.Params.dateFormatToUse | default "Monday, January 2, 2006") }} &#8203;</span>
       {{ with .Params.categories -}}
-        &#8203;<div class="post-category">&#8203;
+        <div class="post-category">
           {{ range . -}}
-            <a href=" {{ "categories" | relLangURL }}/{{ . | urlize }}/"> {{ . }} </a>
+            <a href=" {{ "categories" | relLangURL }}/{{ . | urlize }}/">&#8203; {{ . }} &#8203;</a>
           {{ end -}}
           &#8203;
         </div>
       {{- end }}
       {{- if .Site.Params.moreMeta }}
-        &#8203;<span class="more-meta">&#8203; {{ T "wordCount" .WordCount }}  </span>
-        &#8203;<span class="more-meta">&#8203; {{ T "readingTime" .ReadingTime }}  </span>
+        <span class="more-meta">&#8203; {{ T "wordCount" .WordCount }}  &#8203;</span>
+        <span class="more-meta">&#8203; {{ T "readingTime" .ReadingTime }}  &#8203;</span>
       {{- end }}
     </div>
   </header>
