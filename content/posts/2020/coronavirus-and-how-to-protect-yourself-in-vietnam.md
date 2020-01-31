@@ -1,4 +1,4 @@
-﻿---
+---
 title: Coronavirus and the need to protect yourself in Vietnam
 linktitle: Coronavirus and the need to protect yourself in Vietnam
 date: 2020-01-31
@@ -7,9 +7,9 @@ categories: [
     "My Life in Vietnam",
 ]
 tags: [
-    "Vietnam",
+    "vietnam",
     "coronavirus",
-    “2019-nCoV”,
+    “2019-ncov”,
     "diseases",
 ]
 featured_image: https://i.postimg.cc/GhR0BmfD/coronavirus.jpg

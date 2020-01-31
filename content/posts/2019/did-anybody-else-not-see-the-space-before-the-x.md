@@ -7,8 +7,8 @@ categories: [
     "My Life in Vietnam",
 ]
 tags: [
-    "Hanoi",
-    "Vietnam",
+    "hanoi",
+    "vietnam",
 ]
 featured_image: https://i.postimg.cc/RCycmnj9/Universe-X.jpg
 type: post
