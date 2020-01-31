@@ -2,7 +2,7 @@
 title: Did anybody else not see the space before the X?
 linktitle: Did anybody else not see the space before the X?
 date: 2019-11-23
-description: Or is it just me being too naughty again?
+summary: Or is it just me being too naughty again?
 categories: [
     "My Life in Vietnam",
 ]
