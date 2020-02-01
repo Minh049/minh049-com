@@ -54,7 +54,7 @@ In all honesty, so far the new coronavirus does not affect my life very much. Ap
 
 I heard that many hotels suffer cancellations at the moment, with some of them offering face masks to their staff and guests. While it certainly worries many people, Vietnam has only registered five positive cases of 2019-nCoV at the time of writing this article (January 31, 2020).
 
-In a country where several thousand people die yearly of traffic accidents, food poisoning, and other common causes, the current zero-death rate of a new virus wouldn’t bother me too much, to give you a personal opinion. However, this is my own opinion, and you might have a family to worry about. I could understand if you decide against coming to Vietnam at the moment, but don’t think that there is much reason to worry.
+In a country where several thousand people die yearly of traffic accidents, food poisoning, and other common causes, the current zero-death rate of a new virus wouldn’t bother me too much, to give you a personal opinion. However, this is my own opinion, and you might have a family to worry about. I could understand if you decide against coming to Vietnam at the moment, but don’t think that there is much reason to worry as long as you take basic safety precautions.
 
 ---
 **NOTE**
