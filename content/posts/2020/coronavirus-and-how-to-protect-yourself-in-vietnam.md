@@ -5,6 +5,7 @@ date: 2020-01-31
 summary: With the coronavirus epidemic spreading quickly across China and other countries, many people are concerned about how to protect themselves. What are the symptoms after infection, how is it being transmitted, and when should you see a doctor? Is this going to affect my life in Vietnam or your visit to my second home of choice?
 categories: [
     "My Life in Vietnam",
+	"World",
 ]
 tags: [
     "vietnam",
