@@ -16,7 +16,7 @@ toc: true
 
 In the unlikely case that you haven't heard about the new coronavirus or haven't had the time to learn more about it, here's a quick summary by South China Morning Post about what we know so far:
 
-{{< youtube ru5REL9ANg >}}
+{{< youtube Zru5REL9ANg >}}
 
 ## What we could have done better during the Coronavirus outbreak
 
