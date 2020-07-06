@@ -19,7 +19,7 @@ toc: true
 ---
 ![coronavirus](https://i.postimg.cc/GhR0BmfD/coronavirus.jpg)
 
-With the coronavirus epidemic spreading quickly across China and other countries, many people are concerned about how to protect themselves. What are the symptoms after infection, how is it being transmitted, and when should you see a doctor? Is this going to affect my life in Vietnam or your visit to my second home of choice?
+With the coronavirus epidemic spreading rapidly across China and other countries, many people are concerned about how to protect themselves. What are the symptoms after infection, how is it being transmitted, and when should you see a doctor? Is this going to affect my life in Vietnam or your visit to my second home of choice?
 
 With over 9,770 people being infected (as of January 31), the coronavirus is being taken very seriously by governments and international organisations. The WHO declared the virus a global health emergency on January 30, with the organisation’s director announcing that the decision came amid concerns for countries with weaker health systems. As of January 31, China’s death toll has already risen to 213 people, a rapid increase of 25 per cent in just one day. Numbers like these are scary enough. So, what should you know and do to protect yourself and your loved ones?
 
